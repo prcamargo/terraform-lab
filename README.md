@@ -1,3 +1,3 @@
 # terraform-lab
 
-![Diagrama](Diagrama.png)
+![Diagrama](img.png)
